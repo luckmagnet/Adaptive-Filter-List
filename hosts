@@ -4,29 +4,30 @@
 ! Issues: https://github.com/luckmagnet/Adaptive-Filter-List/issues
 
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/9
-clients.config.office.net
-login.live.com
+0.0.0.0    clients.config.office.net
+0.0.0.0    login.live.com
+0.0.0.0    dns.msftncsi.com
 
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/8
-nvidiagrid.net
+0.0.0.0    nvidiagrid.net
   
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/7
-meta.ai
+0.0.0.0    meta.ai
 
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/6
-kimi.com
+0.0.0.0    kimi.com
 
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/5
-deepseek.com
+0.0.0.0    deepseek.com
 
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/4
-claude.ai
+0.0.0.0    claude.ai
 
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/1
-ogs.google.com
+0.0.0.0    ogs.google.com
 
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/2
-alive.github.com
+0.0.0.0    alive.github.com
 
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/3
-push.services.mozilla.com
+0.0.0.0    push.services.mozilla.com
