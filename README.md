@@ -3,9 +3,9 @@ Filters in adblock syntax
 
 ---
 
-Quoting https://github.com/mtxadmin/ublock/blob/master/README_en.md
+[Quoting](https://github.com/mtxadmin/ublock/blob/master/README_en.md)
 
-"Constantly updated filter list for uBlock Origin. Removes banners and spying modules, blocks fraudulent sites. And also removes different annoyances from internet pages. [See the full list here.](https://github.com/mtxadmin/ublock/blob/master/docs/policy_en.md) Let's make sites cleaner and reading more comfortable and secure!"
+>Constantly updated filter list for uBlock Origin. Removes banners and spying modules, blocks fraudulent sites. And also removes different annoyances from internet pages. [See the full list here.](https://github.com/mtxadmin/ublock/blob/master/docs/policy_en.md) Let's make sites cleaner and reading more comfortable and secure!
 
 ---
 
