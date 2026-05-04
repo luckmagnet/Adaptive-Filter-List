@@ -8,6 +8,8 @@
 0.0.0.0    login.live.com
 0.0.0.0    dns.msftncsi.com
 0.0.0.0    ecs.office.com
+0.0.0.0    mobile.events.data.microsoft.com
+
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/8
 0.0.0.0    nvidiagrid.net
   
