@@ -7,7 +7,7 @@
 0.0.0.0    clients.config.office.net
 0.0.0.0    login.live.com
 0.0.0.0    dns.msftncsi.com
-
+0.0.0.0    ecs.office.com
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/8
 0.0.0.0    nvidiagrid.net
   
