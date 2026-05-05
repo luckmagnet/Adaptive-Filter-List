@@ -1,5 +1,5 @@
 # Adaptive-Filter-List
-Filters in adblock syntax
+Filters in adblock syntax and hosts file
 
 ---
 
