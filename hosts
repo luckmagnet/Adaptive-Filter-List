@@ -24,6 +24,10 @@
 0.0.0.0    nvidianews.com
 0.0.0.0    nvidia.partners
 0.0.0.0    tegrazone.com
+0.0.0.0    events.gfe.nvidia.com
+0.0.0.0    static.nvidiagrid.net
+0.0.0.0    ops.gx.nvidia.com
+0.0.0.0    ota.nvidia.com
   
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/7
 0.0.0.0    meta.ai
