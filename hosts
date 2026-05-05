@@ -3,6 +3,9 @@
 ! Homepage: https://github.com/luckmagnet/Adaptive-Filter-List/
 ! Issues: https://github.com/luckmagnet/Adaptive-Filter-List/issues
 
+# https://github.com/luckmagnet/Adaptive-Filter-List/issues/10
+0.0.0.0    status.bitwarden.com
+
 # https://github.com/luckmagnet/Adaptive-Filter-List/issues/9
 0.0.0.0    clients.config.office.net
 0.0.0.0    login.live.com
